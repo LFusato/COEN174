@@ -1,0 +1,467 @@
+Witt, Abigail,Employee,$45000.00
+Hable, Abigail K.,Employee,$45000.00
+Wang-Levine, Adam,Employee,$55080.00
+Frankel, Adam P.,Employee,$100000.00
+Hitchcock, Adam S.,Employee,$51000.00
+Abrams, Adam W.,Employee,$66300.00
+Beverly, Alaina C.,Employee,$71400.00
+Fitts, Alan 0.,Employee,$61200.00
+Campoverdi, Alejandra M.,Employee,$60000.00
+Perez, Alejandro,Employee,$130500.00
+Nguyen, Alexander T. H.,Detailee,$102829.00
+Nathan, Alison J.,Employee,$130500.00
+Markovitz, Alison J.,Employee,$80000.00
+Schwartz, Alison K.,Employee,$75000.00
+Pulliam, Allison C.,Employee,$42000.00
+Kelly, Allison K.,Employee,$45000.00
+Zelman, Allison L.,Employee,$50000.00
+Mastromonaco, Alyssa M.,Employee,$172200.00
+Anderson, Amanda D.,Employee,$60000.00
+Brundage, Amy J.,Employee,$78000.00
+Chhabra, Anand,Employee,$42000.00
+Turk, Andrea E.,Employee,$50000.00
+Greenawalt, Andrei M.,Employee,$80000.00
+Bates, Andrew J.,Employee,$42000.00
+Tennison, Angela N.,Employee,$42000.00
+Edmonds, Anita J.,Employee,$49069.00
+Kim, Anna S.,Employee,$60000.00
+Larus, Anne K.,Employee,$56100.00
+Brewer, Anne P.,Employee,$45000.00
+Lynn, Anthony V.,Employee,$45000.00
+Frank, April P.,Employee,$42000.00
+Pourmorad, Araz ,Employee,$45000.00
+Tate-Gilmore, Ashley R.,Employee,$45900.00
+Kimball, Astri B.,Employee,$85000.00
+Siegel, Avra C.,Employee,$50000.00
+LaBolt, Benjamin C.,Employee,$78000.00
+Milakofsky, Benjamin E.,Employee,$45000.00
+Finkenbinder, Benjamin N.,Employee,$45900.00
+Flatgard, Benjamin W.,Employee,$55000.00
+Canery, Beverly D.,Employee,$58511.00
+Roberts, Blake C.,Employee,$99000.00
+Becnel, Bradley D.,Employee,$55000.00
+Kiley, Bradley J.,Employee,$162900.00
+Setser, Bradley W.,Employee,$110500.00
+Lepow, Brandon D.,Employee,$55000.00
+Deese, Brian C.,Employee,$130500.00
+Mosteller, Brian D.,Employee,$90000.00
+Pate, Brian E.,Employee,$46745.00
+DeGuzman, Brian K.,Employee,$42738.00
+Bond, Brian K.,Employee,$93840.00
+Quinn, Brian P.,Employee,$45000.00
+Jung, Bryan,Employee,$50000.00
+Hurley, Caitlin G.,Employee,$60000.00
+Naidoff, Caitlin L.,Employee,$50000.00
+Johnston, Camille Y.,Employee,$102000.00
+Attili, Candice L.,Employee,$58511.00
+Odio, Carlos P.,Employee,$56100.00
+Krass, Caroline D.,Employee,$130500.00
+Hughes, Caroline E.,Employee,$42000.00
+Chambers, Caroline M.,Employee,$120000.00
+Browner, Carol M.,Employee,$172200.00
+Devine, Carrie S.,Employee,$56100.00
+Lillie, Catherine E.,Employee,$70000.00
+Lelyveld, Catherine M.,Employee,$85680.00
+Muñoz, Cecilia,Employee,$153500.00
+Millison, Chad L.,Employee,$60232.00
+Anderson, Charles D.,Employee,$51000.00
+Sobel, Charlie J.,Employee,$55000.00
+Cushman, Chase M.,Employee,$45900.00
+Kammerer, Chelsea J.,Employee,$56100.00
+Tchen, Christina M.,Employee,$153500.00
+Kang, Christopher D.,Employee,$130500.00
+Davis, Christopher E.,Employee,$76500.00
+Liddell-Westefeld, Christopher,Employee,$50000.00
+Liegel, Christopher J.,Employee,$37826.00
+Lu, Christopher P.,Employee,$172200.00
+White, Cleo,Detailee,$65393.00
+Keenan, Cody S.,Employee,$75000.00
+Ealons, Corey A.,Employee,$79560.00
+Dorsett, Craig M.,Employee,$42000.00
+Jones, Crystal B.,Employee,$84855.00
+Roach, Cynthia L.,Employee,$100904.00
+Vega, Dagoberto,Employee,$100000.00
+Singiser, Dana E.,Employee,$130500.00
+Lewis, Dana M.,Employee,$66000.00
+Turton, Daniel A.,Employee,$158500.00
+Utech, Daniel G.,Detailee,$130000.00
+Schuker, Daniel J. T.,Employee,$55080.00
+Leger, Daniella G.,Employee,$102000.00
+Gray, Danielle C.,Employee,$130500.00
+Crutchfield, Danielle M.,Employee,$130000.00
+Firestone, Daren H.,Detailee,$105211.00
+Page, Darienne M.,Employee,$42000.00
+Lezotte, Darin R.,Employee,$62544.00
+Monteiro, Darron P.,Employee,$61200.00
+Lipton, David A.,Employee,$149000.00
+Voorman, David A.,Employee,$45594.00
+Kalbaugh, David E.,Employee,$129758.00
+Gomez, David F.,Employee,$45000.00
+Pope, David F.,Employee,$51000.00
+Cusack, David J.,Employee,$102000.00
+Wade, David L.,Employee,$55000.00
+Simas, David M.,Employee,$100000.00
+Axelrod, David M.,Employee,$172200.00
+Agnew, David P.,Employee,$93840.00
+Campos, David R.,Employee,$42000.00
+Luck, Deatrice N.,Employee,$43860.00
+Dyer, Deesha A.,Employee,$45000.00
+Jackson, Deilia A. L.,Employee,$42000.00
+Wilson, Denise R.,Employee,$130500.00
+McDonough, Denis R.,Employee,$147500.00
+Douglas, Derek R. B.,Employee,$120000.00
+Pipkins, Desiree E.,Employee,$50000.00
+Farrell, Diana,Employee,$147500.00
+Beinart, Diana H.,Employee,$130500.00
+Verrilli, Donald B.,Employee,$158500.00
+Parker, Doris D.,Employee,$79864.00
+Kramer, Douglas J.,Detailee,$155500.00
+Vale, Elizabeth A.,Detailee,$132009.00
+Jones, Elizabeth A.,Employee,$100000.00
+Olson, Elizabeth H.,Employee,$76500.00
+Jackson, Elizabeth J.,Employee,$37983.00
+Brown, Elizabeth M.,Employee,$172200.00
+Jarvis-Shean, Elizabeth P.,Employee,$100000.00
+Smith, Elizabeth S.,Employee,$130000.00
+Cohen, Elizabeth S,Employee,$45900.00
+Nelson, Elizabeth W.,Employee,$45900.00
+Schafer, Ellie S.,Employee,$71400.00
+Loeb, Emily M.,Employee,$60000.00
+Beliveau, Emmett S.,Employee,$130000.00
+Lesser, Eric P.,Employee,$60000.00
+Mackey, Erin E.,Employee,$66300.00
+Edgerton, Erin M.,Detailee,$89033.00
+Burnough, Erinn J.,Employee,$66300.00
+Carrier, Ethan A.,Detailee,$94969.00
+Kang, Eugene J.,Employee,$48095.00
+Escobar, Felicia A. ,Employee,$90000.00
+Reeves, Fiona O.,Employee,$51000.00
+Wade, Frances J.,Employee,$44402.00
+Campbell, Frances L.,Employee,$100904.00
+Starkey, Frances M.,Employee,$80000.00
+Baldassaro, Frederick J.,Detailee,$122744.00
+Gardaphe, Frederico C.,Employee,$50000.00
+Tseggai, Gannet L.,Employee,$66300.00
+Lee, Gary S.,Employee,$42000.00
+Saunders, George T.,Employee,$155500.00
+Lewis, Georgette T.,Employee,$45000.00
+Roddick, Gertrude A.,Employee,$89846.00
+Gottlieb, Graham D.,Employee,$42000.00
+Campbell, Grant E.,Employee,$45900.00
+Millett, Gregorio A.,Detailee,$115731.00
+Swanson, Gregory C.,Employee,$42000.00
+Rosalsky, Gregory E.,Employee,$45000.00
+Lorjuste, Gregory,Employee,$45900.00
+Papa, Gregory J.,Employee,$130500.00
+Trainor, Gregory T.,Employee,$68230.00
+Ford, Harrison A.,Employee,$42000.00
+Godfrey, Harrison T.,Employee,$42000.00
+Higginbottom, Heather A.,Employee,$150000.00
+Gottry, Heather C.,Detailee,$136134.00
+Zichal, Heather R.,Employee,$100000.00
+Alley, Hilary J.,Employee,$42000.00
+Pfeiffer, Howard D.,Employee,$172200.00
+Buffett, Howard W.,Detailee,$51630.00
+Ledbetter, Howli J.,Employee,$42000.00
+Adams, Ian H.,Employee,$45000.00
+Bassin, Ian M.,Employee,$99000.00
+Reed, Ian P.,Employee,$45900.00
+Robertson, Ian T.,Employee,$42000.00
+Thomas, III, Edwin R.,Employee
+Phillips, III, Robert M.,Employee
+Stoev, Ivan,Employee,$50000.00
+Whichard, IV, David J.,Employee
+Levine, Jacob C.,Employee,$45000.00
+Pope, Jamal A.,Employee,$42000.00
+Messina, James A.,Employee,$172200.00
+Albino, James ,Employee,$91800.00
+Jones, James L.,Employee,$172200.00
+Oleske, James M.,Employee,$114000.00
+Heimbach, James T.,Employee,$130500.00
+Spencer, Jane C.,Employee,$76500.00
+Cunningham, Jason F.,Detailee,$64548.00
+Green, Jason G.,Employee,$99000.00
+Smith, Jason J.,Employee,$42000.00
+Furman, Jason L.,Employee,$147500.00
+Lerner, Jeffrey B. W.,Employee,$76500.00
+Stephens, Jeffrey M.,Employee,$75000.00
+Crowley, Jeffrey S.,Employee,$102000.00
+Cizner, Jennifer C.,Employee,$85680.00
+Seymour, Jennifer D.,Detailee,$107770.00
+Goodman, Jennifer,Employee,$63240.00
+Yeager Kaplan, Jennifer F.,Employee,$66300.00
+Psaki, Jennifer R.,Employee,$150000.00
+Lee, Jesse C.,Employee,$71400.00
+Lewin, Jesse M.,Employee,$42000.00
+Wright, Jessica N.,Employee,$96900.00
+Stracko, Jill A.,Employee,$51000.00
+Sass, Joan C.,Employee,$56791.00
+Walsh, Joan L.,Employee,$60000.00
+Martin, Joanna G.,Employee,$102000.00
+Frye, Jocelyn C.,Employee,$140000.00
+Gillette, Jodi A.,Employee,$71400.00
+Terry, Joelle L.,Employee,$65000.00
+Maska, Johanna M.,Employee,$56100.00
+Brennan, John O.,Employee,$172200.00
+Oxtoby, John T.,Employee,$42000.00
+McBride, Jonathan D.,Employee,$130000.00
+Samuels, Jonathan D.,Employee,$130500.00
+Asen, Jonathan D.,Employee,$42000.00
+Favreau, Jonathan E.,Employee,$172200.00
+Kravis, Jonathan I.,Employee,$130500.00
+Lovett, Jonathan I.,Employee,$75000.00
+Kennedy, Joseph B.,Employee,$42000.00
+Paulsen, Joseph B.,Employee,$56100.00
+Reinstein, Joseph B.,Employee,$66300.00
+Odintz, Joshua D.,Detailee,$155500.00
+DuBois, Joshua P.,Employee,$100000.00
+Earnest, Joshua R.,Employee,$113000.00
+Lipsky, Joshua S.,Employee,$45000.00
+Monje, Jr., Carlos A.,Employee
+Baskerville, Jr., Chester A.,Employee
+DeGuzman, Jr., Danilo,Employee
+Kelleher, Jr., Francis M.,Employee
+De Sio, Jr., Henry F.,Employee
+Taggart, Jr., Hugh T.,Employee
+Aldy, Jr., Joseph E.,Employee
+Nicholson, Jr., Marvin D.,Employee
+Young, Jr., Reginald D.,Employee
+Gavin, Jr., Thomas E.,Employee
+Samuels, Jr., Wendell A.,Employee
+Cuba, Juan C.,Employee,$42000.00
+Smoot, Julianna S.,Employee,$150000.00
+Dale, Kareem A.,Employee,$61200.00
+Richardson, Karen E.,Detailee,$92001.00
+Dalheim, Karen L.,Detailee,$148510.00
+Jean-Pierre, Karine,Employee,$76500.00
+Andrias, Kate E.,Employee,$130500.00
+Sabochik, Katelyn A.,Employee,$62500.00
+Johnson, Katherine B.,Employee,$90000.00
+Massey, Katherine,Detailee,$165000.00
+Shaw, Katherine,Employee,$130500.00
+Young, Katherine H.,Employee,$42000.00
+Kochman, Katherine H.,Employee,$45000.00
+Hogan, Katherine J.,Employee,$45900.00
+Bedingfield, Katherine J.,Employee,$90000.00
+Murtha, Katherine R.,Employee,$50000.00
+Branch, Katherine Y.,Employee,$61200.00
+Rittner, Kathleen A.,Detailee,$144868.00
+Grant, Kathryn A.,Employee,$42000.00
+Ruemmler, Kathryn H.,Employee,$158500.00
+Kale, Katy A.,Employee,$130500.00
+Clarke, Kay F.,Employee,$64439.00
+Smith, Kelley S.,Employee,$42000.00
+Burman, Kendall C.,Employee,$130500.00
+Harris, Kevin R.,Employee,$42000.00
+Lewis, Kevin S.,Employee,$42000.00
+Harris, Kimberley D.,Employee,$130500.00
+Teehee, Kimberly K.,Employee,$100000.00
+Schulman, Kori S.,Employee,$48450.00
+Jarvis, Kristen E.,Employee,$51000.00
+Birdsall, Kristen S.,Employee,$45900.00
+Sheehy, Kristin J.,Employee,$60000.00
+Garcia, Kristin M.,Employee,$45000.00
+Jones, Kristin T.,Employee,$42000.00
+Cobbina, Kwesi A.,Employee,$42000.00
+Watkins, Kyle D. ,Employee,$45000.00
+Young, Latoya A.,Employee,$58511.00
+Santucci, Laura G.,Employee,$70000.00
+Castillo, Laura M.,Employee,$42000.00
+Belive, Lauren E.,Employee,$45000.00
+Thorbjornsen, Lauren K.,Employee,$45000.00
+Dunn, Lauren P.,Employee,$50000.00
+Paige, Lauren R.,Employee,$62000.00
+Summers, Lawrence H.,Employee,$172200.00
+Claude, Lilia H.,Employee,$58511.00
+Johnson, Linda M.,Employee,$66335.00
+Jamison, Linda S.,Employee,$113000.00
+Ayling, Lindsay A.,Employee,$42000.00
+Mueller, Lindsay E.,Employee,$66300.00
+Kohnke, Lisa J.,Employee,$60000.00
+Konwinski, Lisa M.,Employee,$158500.00
+Edwards, Lisa W.,Detailee,$155500.00
+Graham, Lottie B.,Employee,$63673.00
+Terrell, Louisa M.,Employee,$130500.00
+Amorsingh, Lucius L.,Employee,$56092.00
+Miranda, Luis A.,Employee,$78000.00
+Kommareddi, Madhuri,Employee,$71400.00
+Sinha, Manish,Employee,$42000.00
+Vanderslice, Mara L.,Detailee,$92001.00
+Sirbu, Mara L.,Employee,$42000.00
+Chen, Margaret C.,Employee,$0.00
+Olmos, Margaret C.,Employee,$65000.00
+McLaughlin, Margaret T.,Employee,$120000.00
+Hennigan, Margo E.,Employee,$45900.00
+Thomas, Maria A.,Employee,$42000.00
+Ocampo, Maria L.,Employee,$42000.00
+Williams, Marie J.,Employee,$55000.00
+Hopkins, Marissa C.,Employee,$60000.00
+Lippert, Mark W.,Employee,$147500.00
+Levine, Marne L.,Employee,$130500.00
+Coven, Martha B.,Employee,$120000.00
+Cuellar, Martin E.,Employee,$91800.00
+Goodman, Mary B.,Employee,$130500.00
+DeRosa, Mary B.,Employee,$158500.00
+McGuire, MaryEllen C.,Employee,$91800.00
+Offerman, Mary F.,Employee,$45000.00
+Northern, Mary G.,Employee,$42000.00
+Brooke, Mary J.,Employee,$89033.00
+Roche, Mary K.,Employee,$60000.00
+McCarthy, Mary N.,Detailee,$155500.00
+Binns, Mary U.,Employee,$70126.00
+Tranchin, Matthew A.,Employee,$42000.00
+Lehrich, Matthew A.,Employee,$65000.00
+Vogel, Matthew A.,Employee,$71400.00
+Schaub, Matthew J.,Employee,$42000.00
+Onek, Matthew M.,Employee,$110000.00
+Baggetto, Maude L.,Employee,$42000.00
+Winter, Melissa,Employee,$102000.00
+McNeal, Melissa K.,Employee,$51000.00
+Barnes, Melody C.,Employee,$172200.00
+Carden, Meredith M.,Employee,$42000.00
+Webster, Meridith A.,Employee,$120000.00
+Fernandez, Micaela J.,Employee,$102000.00
+Fergenson, Micah F.,Employee,$42000.00
+Strautmanis, Michael A.,Employee,$139500.00
+Blake, Michael A.,Employee,$61200.00
+Hornsby, Michael A.,Employee,$66300.00
+Camuñez, Michael C.,Employee,$140000.00
+Gottlieb, Michael J.,Employee,$114000.00
+Ruemmler, Michael L.,Employee,$56100.00
+Hash, Michael M.,Detailee,$179700.00
+Dillon, Michael P.,Employee,$113000.00
+Brush, Michael P.,Employee,$56100.00
+Block, Michael R.,Employee,$42000.00
+Ortiz, Michael R.,Employee,$45000.00
+Wear, Michael R.,Employee,$45900.00
+Faulman, Michael T.,Employee,$42000.00
+Donovan, Michael W.,Employee,$45900.00
+Muntz, Moira K. M.,Employee,$66300.00
+Sutphen, Mona K.,Employee,$172200.00
+Jabbour, Mona K.,Employee,$80000.00
+Juska, Monika,Employee,$45000.00
+Freeman, Myra B.,Employee,$73917.00
+DeParle, Nancy-Ann Min,Employee,$158500.00
+Hogan, Nancy D.,Employee,$145000.00
+Bookey-Baker, Natalie F.,Employee,$45000.00
+Hiatt, Natalie M.,Employee,$42000.00
+Pojman, Natalie R.,Employee,$45900.00
+Tamarin, Nathanael P.,Employee,$96900.00
+Colvin, Nicholas M.,Employee,$63240.00
+Rathod, Nicholas S.,Employee,$71400.00
+Shapiro, Nicholas S.,Employee,$78000.00
+Bauer, Nicholas T.,Employee,$55000.00
+Papas, Nicholas W.,Detailee,$92001.00
+Stickel, Nicole T.,Employee,$42000.00
+Sutton, Nikki E.,Employee,$47500.00
+Campbell, Nnaji-Semayi K.,Employee,$42000.00
+Limon, Noerena,Employee,$42000.00
+Greene, Norman A.,Employee,$66300.00
+Eisen, Norman L.,Employee,$149000.00
+Noel, Pascal J.,Employee,$59160.00
+McGinnis, Patricia G.,Employee,$0.00
+Blount, Patricia H.,Employee,$44402.00
+Gaspard, Patrick H.,Employee,$172200.00
+Whitty, Patrick M.,Employee,$45000.00
+Raizk, Paul S.,Employee,$113605.00
+Rundlet, Peter F.,Employee,$158500.00
+Newell, Peter J.,Employee,$71400.00
+Rouse, Peter M.,Employee,$172200.00
+Swire, Peter P.,Employee,$130500.00
+Gage, Peter T.,Detailee,$94969.00
+Droege, Philip C.,Employee,$140259.00
+Mattson, Philip C.,Employee,$60232.00
+Weiser, Philip J.,Detailee,$172000.00
+Schiliro, Philip M.,Employee,$172200.00
+Hernandez, Philip M.,Employee,$42000.00
+Tucker, Phyllis J.,Employee,$89033.00
+Kumar, Pravin D.,Employee,$50000.00
+Bhowmik, Rachana,Employee,$100000.00
+Bisi, Rachel I.,Employee,$42000.00
+Emanuel, Rahm I.,Employee,$172200.00
+Cardwell, Rebecca A.,Employee,$43656.00
+Cokley, Rebecca A.,Employee,$72000.00
+Love, Reginald L.,Employee,$102000.00
+Cherlin, Reid H.,Employee,$78000.00
+Carter, Rhonda M.,Employee,$57000.00
+Sahgal, Rishi R.,Employee,$66300.00
+Schmuck, Robert E.,Employee,$42000.00
+Bauer, Robert F.,Employee,$172200.00
+Nabors, Robert L.,Employee,$162500.00
+Gibbs, Robert L.,Employee,$172200.00
+Gonzalez, Roberto J.,Employee,$114000.00
+Rodriguez, Roberto J.,Employee,$120000.00
+Kocher, Robert P.,Employee,$130500.00
+Fernkas, Robin E.,Detailee,$126251.00
+Mehrbani, Rodin A.,Employee,$80000.00
+Tucci, Rosarie G.,Employee,$51000.00
+Anello, Russell M.,Employee,$66300.00
+Metcalf, Ryan D.,Employee,$42000.00
+Harper, Ryan M.,Employee,$56100.00
+Tubman, Samantha J.,Employee,$49000.00
+Chaifetz, Samantha L.,Detailee,$123758.00
+Mayekar, Samir S.,Employee,$56100.00
+Wilson, Samuel A.,Employee,$45000.00
+Fenn, Sarah B.,Employee,$42000.00
+Bernard, Sarah C.,Employee,$70000.00
+Sibley, Sarah E.,Employee,$50000.00
+Hurwitz, Sarah K.,Employee,$100000.00
+Narechania, Saumya N.,Employee,$50000.00
+Kennedy, Sean D.,Employee,$130500.00
+Sweeney, Sean F.,Employee,$120000.00
+Stephens, Semonti M.,Employee,$53550.00
+London, Seth A.,Employee,$45000.00
+Wong, Shale L.,Employee,$0.00
+Conrad, Shasti K. ,Employee,$42000.00
+McGrath, Shaun L.,Employee,$93840.00
+Maher, Shawn P.,Employee,$158500.00
+Finlen, Shawn T.,Employee,$50000.00
+Stoneman, Shelly O.,Employee,$130500.00
+Williams, Sherman A.,Employee,$74958.00
+Phadke, Shilpa,Employee,$80000.00
+Hegde, Shilpa S.,Employee,$42000.00
+Inouye, Shinichi,Employee,$78000.00
+Rivadeneira, Shirley C.,Employee,$55000.00
+Sathe, Smrthi,Employee,$70000.00
+Leitner-Laserna, Sofia I.,Employee (part-time),$21000.00
+Lartey, Solomon D.,Employee,$56092.00
+Shah, Sonal R.,Employee,$120000.00
+Posey, Stacie M.,Employee,$42000.00
+Koo, Stacy J.,Employee,$55000.00
+Cutter, Stephanie ,Employee,$172200.00
+Valencia, Stephanie M.,Employee,$61200.00
+Moilanen, Stephen S.,Employee,$45000.00
+Bressler, Steven Y.,Detailee,$148510.00
+Davies, Susan M.,Employee,$158500.00
+Mrazek, Susannah R.,Employee,$42000.00
+Sher, Susan S.,Employee,$172200.00
+King, Taeshonnda C.,Employee,$60232.00
+Watson, Takesha R.,Employee,$43860.00
+Corrigan, Tara C.,Employee,$45000.00
+Fiscus, Taylor R.,Employee,$45000.00
+Hanson, Terry P.,Employee,$42000.00
+Chiodo, Theodore A.,Employee,$60000.00
+Jackson, Theresa R.,Employee,$64439.00
+Donilon, Thomas E.,Employee,$172200.00
+Vietor, Thomas F.,Employee,$78000.00
+Ryan, Timothy J.,Employee,$71400.00
+Love, Timothy P.,Detailee,$179700.00
+Skoczek, Timothy R.,Employee,$45000.00
+Groth, Travis R.,Employee,$42840.00
+Sanders, Trooper,Employee,$85000.00
+Lechtenberg, Tyler A,Employee,$50000.00
+Jarrett, Valerie B.,Employee,$172200.00
+Green, Valerie E.,Employee,$113000.00
+Neralla, Venkateswar N.,Employee,$75480.00
+Cunningham, Vinson T.,Employee,$42000.00
+Hoang, Vy T.,Employee,$44402.00
+Neiman, Wanda M.,Employee,$74958.00
+Stone, Wandra E.,Employee,$112774.00
+Showers, Wendy W.,Employee,$84855.00
+Burton, William A.,Employee,$113000.00
+Mack, William B.,Employee,$80000.00
+Donovan, William J.,Employee,$42000.00
+Jawando, William O.,Detailee,$89033.00
+McCathran, William W.,Employee,$106839.00
+Portilla, Zachary A.,Employee,$42000.00
+Espinel, Zulima L.,Employee,$130500.00

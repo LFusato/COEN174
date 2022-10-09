@@ -1,0 +1,6 @@
+Smith	SJ
+Clark	LA
+Pitt	SJ
+Chan	SF
+Jones	SF
+Lott	NY
